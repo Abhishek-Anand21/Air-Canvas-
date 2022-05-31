@@ -50,5 +50,5 @@ while True:
     if len(myPoints)!=0:
         drawOnCanavs(myPoints,myColorValues)
     cv2.imshow("Live Stream", imgResult)
-    if cv2.waitKey(1) & 0xFF == ord("q"):
+    if cv2.waitKey(1) & 0xFF == ord("q"): 
         break
