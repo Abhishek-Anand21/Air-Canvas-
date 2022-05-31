@@ -1,4 +1,4 @@
-# Air-Canvas-
+# Air-Canvas
 Virtual Drawing 
 
 The project takes advantage of this gap and focuses on developing a motion-to-text converter that can potentially serve as software for intelligent wearable 
